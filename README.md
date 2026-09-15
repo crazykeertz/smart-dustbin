@@ -57,5 +57,4 @@ Completed ✅
 
 The demo video shows the working of the Smart Dustbin, where the IR sensor detects an object and the SG90 servo motor automatically opens the lid.
 
-[Watch Demo Video](smart-dustbin-demo(1).mp4)
-
+[▶️ Watch Smart Dustbin Demo](https://github.com/crazykeertz/smart-dustbin/blob/main/smart-dustbin-demo%20(1).mp4)
