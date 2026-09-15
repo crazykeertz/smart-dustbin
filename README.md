@@ -53,3 +53,9 @@ When an object is detected:
 ## Project Status
 
 Completed ✅
+## Demo Video 🎥
+
+The demo video shows the working of the Smart Dustbin, where the IR sensor detects an object and the SG90 servo motor automatically opens the lid.
+
+[Watch Demo Video](smart-dustbin-demo(1).mp4)
+
